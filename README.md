@@ -1,6 +1,6 @@
 # AutoPWNs
 
-This is a repo where I stored the AutoPWN scripts that I have made for vulnerable machines from different platforms.
+This is a repo where I store the AutoPWN scripts that I make for vulnerable machines from different platforms.
 
 # Languages
 
